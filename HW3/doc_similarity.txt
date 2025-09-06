@@ -1,0 +1,11 @@
+Document,Content
+Document 1,"Data science is the art of extracting insights and knowledge from data. Python is a versatile tool for data scientists."
+Document 2,"In Python, libraries like NumPy and Pandas are essential for data manipulation and analysis in data science."
+Document 3,"Data visualization is a crucial part of data science, and Python's Matplotlib and Seaborn libraries help create informative plots and charts."
+Document 4,"Scikit-Learn is a powerful Python library for machine learning. It provides tools for classification, regression, and clustering."
+Document 5,"Natural Language Processing (NLP) is a subfield of data science. Python's NLTK and spaCy are popular libraries for NLP tasks."
+Document 6,"Jupyter notebooks are widely used in data science to create and share data analysis reports. These notebooks are interactive and support Python code."
+Document 7,"Data preprocessing is a crucial step in data science. Python offers tools for handling missing data, scaling features, and encoding categorical variables."
+Document 8,"Machine learning algorithms like decision trees, support vector machines, and random forests are implemented in Python for predictive modeling."
+Document 9,"Python's data science ecosystem is continuously evolving, with new libraries and tools regularly emerging to support data analysis and model development."
+Document 10,"Data scientists use Python for a wide range of applications, from business analytics and finance to healthcare and social sciences."
